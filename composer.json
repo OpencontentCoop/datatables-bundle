@@ -1,5 +1,5 @@
 {
-    "name": "omines/datatables-bundle",
+    "name": "opencontent/datatables-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DataTables Bundle with native Doctrine ORM, Elastica and MongoDB support",
     "keywords": ["symfony","jquery","datatable", "datatables", "bundle", "doctrine", "orm", "elastica", "mongodb"],
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-      "issues": "https://github.com/omines/datatables-bundle/issues"
+      "issues": "https://github.com/OpencontentCoop/datatables-bundle/pulls"
     },
     "require": {
         "php": "^7.0.8",
